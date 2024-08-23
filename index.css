@@ -1,0 +1,218 @@
+body {
+    margin: 0 0 0 0;
+}
+#div1 {
+    width: 768px;
+    height: 128px;
+    background-image: url('images/MO/anua_특설페이지_MO_01.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#div2 {
+    width: 768px;
+    height: 652px;
+    background-image: url('images/MO/anua_특설페이지_MO_02.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#div3 {
+    width: 768px;
+    height: 219px;
+    background-image: url('images/MO/anua_특설페이지_MO_03.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+
+#div4 {
+    width: 768px;
+    height: 1120px;
+    background-image: url('images/MO/anua_특설페이지_MO_04.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+#link1 {
+    width: 269px;
+    display: block;
+    height: 70px;
+    background: none;
+    position: relative;
+    top: 1027px;
+    left: 249px;
+}
+
+#div5 {
+    width: 768px;
+    height: 1227px;
+    background-image: url('images/MO/anua_특설페이지_MO_05.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#link2 {
+    width: 268px;
+    display: block;
+    height: 68px;
+    background: none;
+    position: relative;
+    top: 1110px;
+    left: 250px;
+}
+
+#div6 {
+    width: 768px;
+    height: 670px;
+    background-image: url('images/MO/anua_특설페이지_MO_06.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#link3 {
+    width: 309px;
+    display: block;
+    height: 67px;
+    background: none;
+    position: relative;
+    top: 577px;
+    left: 223px;
+}
+
+#div7 {
+    width: 768px;
+    height: 837px;
+    background-image: url('images/MO/anua_특설페이지_MO_07.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#div8 {
+    width: 768px;
+    height: 461px;
+    background-image: url('images/MO/anua_특설페이지_MO_08.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#div9 {
+    width: 768px;
+    height: 1034px;
+    background-image: url('images/MO/anua_특설페이지_MO_09.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+#link4 {
+    display: block;
+    height: 61px;
+    background: none;
+    position: relative;
+    top: 951px;
+    left: 261px;
+}
+
+#div10 {
+    width: 768px;
+    height: 706px;
+    background-image: url('images/MO/anua_특설페이지_MO_10.png');
+    background-size: cover; /* 이미지가 div를 완전히 덮도록 크기를 조절합니다 */
+    background-position: center; /* 이미지가 div의 중앙에 위치하도록 설정합니다 */
+    background-repeat: no-repeat; /* 이미지를 반복하지 않도록 설정합니다 */
+}
+
+/* 미디어 쿼리: 화면 너비가 768 이상일 때 적용 */
+@media screen and (min-width: 768px) {
+    #div1 {
+        width: 1100px;
+        height: 186px;
+        background-image: url('images/PC/anua_특설페이지_PC_01.png');
+    }
+
+    #div2 {
+        width: 1100px;
+        height: 899px;
+        background-image: url('images/PC/anua_특설페이지_PC_02.png');
+    }
+    #div3 {
+        width: 1100px;
+        height: 195px;
+        background-image: url('images/PC/anua_특설페이지_PC_03.png');
+    }
+    #div4 {
+        width: 1100px;
+        height: 869px;
+        background-image: url('images/PC/anua_특설페이지_PC_04.png');
+    }
+
+    #link1 {
+        width: 272px;
+        height: 74px;
+        top: 728px;
+        left: 72px;
+    }
+    #div5 {
+        width: 1100px;
+        height: 910px;
+        background-image: url('images/PC/anua_특설페이지_PC_05.png');
+    }
+
+    #link2 {
+        width: 268px;
+        height: 69px;
+        top: 792px;
+        left: 597px;
+    }
+
+    #div6 {
+        width: 1100px;
+        height: 923px;
+        background-image: url('images/PC/anua_특설페이지_PC_06.png');
+    }
+
+    #link3 {
+        width: 420px;
+        height: 90px;
+        top: 792px;
+        left: 341px;
+    }
+
+    #div7 {
+        width: 1100px;
+        height: 1143px;
+        background-image: url('images/PC/anua_특설페이지_PC_07.png');
+    }
+    #div8 {
+        width: 1100px;
+        height: 648px;
+        background-image: url('images/PC/anua_특설페이지_PC_08.png');
+    }
+    #div9 {
+        width: 1100px;
+        height: 1406px;
+        background-image: url('images/PC/anua_특설페이지_PC_09.png');
+    }
+
+    #link4 {
+        width: 320px;
+        height: 81px;
+        top: 1288px;
+        left: 390px;
+    }
+
+
+    #div10 {
+        width: 1100px;
+        height: 487px;
+        background-image: url('images/PC/anua_특설페이지_PC_10.png');
+    }
+}
